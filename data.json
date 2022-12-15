@@ -1,7 +1,7 @@
 {
     "events": [
       {
-        "id": 1,
+        "id": "1",
         "title": "Poker night",
         "desc": "The dynamic kitten reveals itself as a self-confident horse to those who look! Draped neatly on a hanger, the literature would have us believe that a succinct dolphin is not but a raspberry! They were lost without the modern currant that composed their lion. A cherry of the snake is assumed to be a courteous orange. By the wayone cannot separate kiwis from bright monkeys! Authors often misinterpret the squirrel as a bright melon, when in actuality it feels more like a kind dog!",
         "date": "2019-09-12",
@@ -430,7 +430,7 @@
     ],
     "users": [
       {
-        "id": 1,
+        "id": "1",
         "username": "Strawberry6",
         "email": "strawberry6@gmail.com"
       },
